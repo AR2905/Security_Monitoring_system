@@ -6,3 +6,7 @@ step 2: In your normal Python installation, enter the following command: Shield.
 You are now prepared to move.
 
 step 3: To execute the system, utilise the.exe file that is located in the "dist" folder.
+
+![image](https://github.com/AR2905/Security_Monitoring_system/assets/125748114/04150e00-734e-434d-a6d5-1b3a99a684ef)
+
+![image](https://github.com/AR2905/Security_Monitoring_system/assets/125748114/53009b5d-ceba-4ce2-8333-2830fc9a69ad)
